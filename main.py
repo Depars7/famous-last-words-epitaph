@@ -8,7 +8,7 @@ never chmodded.
 
 import os
 
-ENTRY = "I leave everything to my cat. She earned it. You know what you did."
+ENTRY = "I died doing what I loved: ignoring the terms and conditions."
 
 # Gate: 1-150 characters, not whitespace-only.
 if not 1 <= len(ENTRY) <= 150 or not ENTRY.strip():
